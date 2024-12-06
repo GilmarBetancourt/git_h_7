@@ -1,2 +1,2 @@
 # git_h_7
-H7 - Git hack individual
+H7 - Eliminar un archivo en el repositorio remoto.
